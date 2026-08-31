@@ -1,4 +1,21 @@
-## Hi there 👋
+# Hi, I'm Danial 👋
+
+Computer Engineering graduate exploring software engineering, 
+AI, systems, and embedded technology.
+
+Currently learning:
+- C
+- Data Structures & Algorithms
+- Computer Systems
+
+Long-term interests:
+- AI & intelligent systems
+- Software engineering
+- Systems & performance
+- Embedded / automotive technology
+
+This profile documents my journey from fundamentals to building 
+real-world software and intelligent systems.## Hi there 👋
 
 <!--
 **Daenielgb/Daenielgb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

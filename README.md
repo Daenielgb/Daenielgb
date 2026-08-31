@@ -15,8 +15,7 @@ Long-term interests:
 - Embedded / automotive technology
 
 This profile documents my journey from fundamentals to building 
-real-world software and intelligent systems.## Hi there 👋
-
+real-world software and intelligent systems.
 <!--
 **Daenielgb/Daenielgb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
